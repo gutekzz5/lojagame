@@ -1,0 +1,48 @@
+{
+"produtos": [
+            {
+            "id": 1,
+            "produto": "Jogo para nitendo",
+            "descricao": "Jogos novos e jogos antigo",
+            "foto": "jogo1.PNG",
+            "preco": 300
+            },
+            {
+                "id": 2,
+                "produto": "Jogos para xbox one",
+                "descricao": "Apreda que tanto faz a plataforma",
+                "foto": "jogo2.PNG",
+                "preco": 200
+            },
+            {
+                "id": 3,
+                "produto": "Jogos para playstation",
+                "descricao": "Conheça nosos melhores jogos",
+                "foto": "jogo3.PNG",
+                "preco": 900
+            },
+            {
+                "id": 4,
+                "produto": "Jogos para PC",
+                "descricao": "Pratique suas habilidades",
+                "foto": "jogo4.jpg",
+                "preco": 560
+                },
+                {
+                    "id": 5,
+                    "produto": "Jogos multi-Plataforma",
+                    "descricao": "Pratique suas habilidades",
+                    "foto": "jogo5.jpg",
+                    "preco": 560
+                    },
+                    {
+                        "id": 6,
+                        "produto": "Jogos diverços",
+                        "descricao": "Participe do nosso eventos nas rede sociais",
+                        "foto": "jogo6.jpg",
+                        "preco": 100
+                        }
+    
+      
+      ]
+}
